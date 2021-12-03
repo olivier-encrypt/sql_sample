@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 //file was changed by another developer
 //let get started with git push....:)
+// i received the fil succcesfully, great thanks:=)
 
 public class vecteur {
     public static void main(String[] args){
